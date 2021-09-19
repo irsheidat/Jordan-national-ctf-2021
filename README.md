@@ -117,7 +117,7 @@ fd9e06c278969b3ddf53e45ddf00f0b11d40b36dc536bc9611155a3c1e002f30
 ```
 step 2 
 
-now, you can solved the challenge by weak key for Des algorithm
+Now, we can solve this challenge by using the weak key of Des algorithm
 ```py
 from Crypto.Cipher import DES
 flag_enc = '''061144cd758fa66a9f15c7e11a9f69c3c6fdbbf7f568a78da20be7d8745d613a
